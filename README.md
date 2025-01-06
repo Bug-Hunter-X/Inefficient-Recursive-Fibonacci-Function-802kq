@@ -1,0 +1,1 @@
+This repository demonstrates a common performance issue in recursive functions: redundant calculations. The `bug.py` file contains an inefficient recursive implementation of the Fibonacci sequence. The `bugSolution.py` file provides an optimized solution using dynamic programming to avoid redundant calculations.
